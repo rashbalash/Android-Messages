@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</Source>
+    <SmallTileSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</MediumTileSource>
+    <WideTileSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</WideTileSource>
+    <LargeTileSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</LargeTileSource>
+    <AppIconSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
