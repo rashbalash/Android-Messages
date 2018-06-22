@@ -9,5 +9,9 @@
     <AppIconSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</AppIconSource>
     <SplashScreenSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</SplashScreenSource>
     <PackageLogoSource>C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\images\Messages.png</PackageLogoSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
 </Project>

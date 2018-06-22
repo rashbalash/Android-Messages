@@ -1,0 +1,17 @@
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\Messages.jsproj.CoreCompileInputs.cache
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\ResourceHandlingTask.state
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\priconfig.xml
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\priconfig.xml.intermediate
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\layout.resfiles
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\layout.resfiles.intermediate
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\resources.resfiles
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\resources.resfiles.intermediate
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\pri.resfiles
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\pri.resfiles.intermediate
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\qualifiers.txt
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\qualifiers.txt.intermediate
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bld\Release\ProjectArchitectures.txt
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bin\AppxManifest.xml
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bin\Messages.build.appxrecipe
+C:\Users\Rashad\Documents\Code\Projects\Messages\Messages\bin\resources.pri
